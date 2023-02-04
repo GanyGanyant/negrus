@@ -8,7 +8,7 @@ edition = "2021"
 [dependencies]
 # serpapi-search-rust="0.1.0",
 google-youtube3 = "4.0.1+20220303"
-tokio = { version = "1.20.1", features = ["full"] }
+tokio = { version = "1.24.2", features = ["full"] }
 rand = "0.8.5"
 rand_seeder = "0.2.3"
 rand_pcg = "0.3.1"
